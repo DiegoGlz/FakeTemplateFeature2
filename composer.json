@@ -1,3 +1,10 @@
 {
-    "name": "diego.gonzalez/faketemplatefeature2"
+    "name": "diego.gonzalez/faketemplatefeature2",
+    "repositories": [
+        { "type": "git", "url": "https://github.com/DiegoGlz/FakeTemplateFeature3.git" }
+    ],
+    "require": {
+        "diego.gonzalez/faketemplatefeature3": "^1.0"
+    }
+
 }
